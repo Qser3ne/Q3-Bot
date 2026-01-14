@@ -20,7 +20,7 @@ def Obtain_picture(tag=None, filter_level=None):
     params = {
         "r18": filter_level,
         "size": ["regular"],
-        "num": 3
+        "num": 1
     }
     
     if tag:
